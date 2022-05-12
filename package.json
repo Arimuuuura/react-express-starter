@@ -1,0 +1,25 @@
+{
+  "name": "react_express_starter",
+  "version": "1.0.0",
+  "description": "React + Node.js + Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arimuuuura/react_express_starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arimuuuura/react_express_starter/issues"
+  },
+  "homepage": "https://github.com/Arimuuuura/react_express_starter#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
